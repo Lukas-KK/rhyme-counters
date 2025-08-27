@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\Rymy\Rymy\x64\Debug\Rymy.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\Rymy\Rymy\x64\Debug\Rymy.MyForm.resources
+C:\Users\User\source\repos\Rymy\Rymy\x64\Debug\Rymy.vcxproj.GenerateResource.cache

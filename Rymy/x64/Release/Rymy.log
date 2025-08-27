@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\Rymy\Rymy\PolishRhymeTool.h(51,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Rymy.vcxproj -> C:\Users\User\source\repos\Rymy\x64\Release\Rymy.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
